@@ -55,6 +55,11 @@ To view the website locally:
 
 ![image](https://github.com/user-attachments/assets/1206299f-921c-4cac-98c3-c4f614e5bba3)
 
+![Image](https://github.com/user-attachments/assets/f52f615e-6c52-463e-96cb-234ecdde002a)
+
+![Image](https://github.com/user-attachments/assets/64bc400a-7c6f-45a8-9ede-b63d63e092b4)
+
+
 
 
 

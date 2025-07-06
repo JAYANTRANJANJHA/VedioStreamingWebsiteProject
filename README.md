@@ -18,7 +18,7 @@ A responsive and visually engaging video streaming website built using only **HT
 ├── style.css
 └── assets/
     ├── videos/         # Demo video files
-    └── thumbnails/     # Preview images
+    └── images/     # Preview images
 ```
 
 ## 🚀 Getting Started

@@ -45,7 +45,19 @@ To view the website locally:
 
 ## 📸 Preview
 
-_Include screenshots or GIFs of your website layout and video playback here._
+![image](https://github.com/user-attachments/assets/5f9e933f-2005-4c0f-b9a2-a5390d5d7f9a)
+
+![image](https://github.com/user-attachments/assets/441907c4-5011-4d9a-bbaa-9ca6963b0cab)
+
+![image](https://github.com/user-attachments/assets/285f682c-d7af-4d78-bfd1-5b1b78003fd3)
+
+![image](https://github.com/user-attachments/assets/1eb9c2ed-23be-4d41-9656-76af810c106e)
+
+![image](https://github.com/user-attachments/assets/1206299f-921c-4cac-98c3-c4f614e5bba3)
+
+
+
+
 
 ## 📜 License
 

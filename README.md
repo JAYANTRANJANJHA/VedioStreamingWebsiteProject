@@ -37,9 +37,13 @@ To view the website locally:
 
 > No installation or build tools needed—just open and stream!
 
+To view the website anywhere:
+
+https://jayantranjanjha.github.io/VedioStreamingWebsiteProject/
+
 ## 💡 Usage Ideas
 
-- Personal portfolio project  
+- Personal project  
 - Frontend development practice  
 - Educational demo for beginners  
 
@@ -58,10 +62,6 @@ To view the website locally:
 ![Image](https://github.com/user-attachments/assets/f52f615e-6c52-463e-96cb-234ecdde002a)
 
 ![Image](https://github.com/user-attachments/assets/64bc400a-7c6f-45a8-9ede-b63d63e092b4)
-
-
-
-
 
 
 ## 📜 License

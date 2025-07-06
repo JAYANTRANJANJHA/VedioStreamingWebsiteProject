@@ -1,4 +1,4 @@
-# 🎬 VideoStreamingWebsiteProject
+# 🎬 Video Streaming Website Project
 
 A responsive and visually engaging video streaming website built using only **HTML** and **CSS**. This project demonstrates how core front-end technologies can create a clean, interactive layout for showcasing videos—without relying on JavaScript or external libraries.
 
